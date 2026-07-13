@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "57e572571f923ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce2fb332fbd2d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2697bcceee9d85",
+            "type": "leaf",
+            "state": {
+              "type": "json-table-view",
+              "state": {
+                "file": "小说拆书.table.md"
+              },
+              "icon": "table",
+              "title": "小说拆书"
+            }
+          },
+          {
+            "id": "c132100602a56a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成功日记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "成功日记"
+            }
+          },
+          {
+            "id": "1d0c93047070f114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "梦想画册.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "梦想画册"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be1822350d8553ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb17d91e2afa2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1381125fce5efe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "eaa16a69ba97c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "64b9d9336295dc0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "0c359ec03bc800df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c02ad09dbd91335c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0939258a2dbbfe03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "成功日记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "成功日记 的反向链接列表"
+            }
+          },
+          {
+            "id": "cf497dc00d5f63ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "成功日记.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "成功日记 的出链列表"
+            }
+          },
+          {
+            "id": "3e4679ef88feddcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "50d47f9ed732bf61",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "99339788f09936b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "小说拆书.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "小说拆书 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c132100602a56a40",
+  "lastOpenFiles": [
+    "梦想画册.md",
+    "成功日记.md",
+    "未命名.md",
+    "New table.table.md",
+    "小说拆书.table.md",
+    "小说拆书.table.md.md",
+    "月度储蓄计划.md",
+    "Templates/成功日记模板.md",
+    "未命名",
+    "梦想画册.assets/女人.jpg",
+    "梦想画册.assets/旅行.jpg",
+    "梦想画册.assets/赚钱.jpg",
+    "梦想画册.assets/观景台长画幅.png",
+    "梦想画册.assets",
+    "Templates",
+    "未命名.base",
+    "创建链接.md",
+    "未命名.canvas"
+  ]
+}
