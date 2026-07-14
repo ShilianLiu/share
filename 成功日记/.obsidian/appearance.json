@@ -1,1 +1,5 @@
-{}
+{
+  "enabledCssSnippets": [
+    "sheet-table-wrap"
+  ]
+}
