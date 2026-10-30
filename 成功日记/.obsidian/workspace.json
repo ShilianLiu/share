@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0962f0d20a343d41",
+        "id": "3203d275d27d79fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0c93047070f114",
+            "id": "83ecd07bc91c4f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,31 +22,49 @@
             }
           },
           {
-            "id": "9e10721d785baf86",
+            "id": "504a076e62b0c629",
             "type": "leaf",
             "state": {
-              "type": "json-table-view",
+              "type": "markdown",
               "state": {
-                "file": "小说拆书.table.md"
+                "file": "成功日记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "table",
-              "title": "小说拆书"
+              "icon": "lucide-file",
+              "title": "成功日记"
             }
           },
           {
-            "id": "ffc11d8eaa7bd0e8",
+            "id": "43790e1df73ade3b",
             "type": "leaf",
             "state": {
-              "type": "json-table-view",
+              "type": "markdown",
               "state": {
-                "file": "大纲.table.md"
+                "file": "Templates/读书笔记模板.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "table",
-              "title": "大纲"
+              "icon": "lucide-file",
+              "title": "读书笔记模板"
+            }
+          },
+          {
+            "id": "0f5f46b98d757af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文进度记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文进度记录"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -103,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0c359ec03bc800df",
@@ -181,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小说拆书.md",
+                "file": "成功日记.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "小说拆书 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -210,25 +231,35 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9e10721d785baf86",
+  "active": "0f5f46b98d757af3",
   "lastOpenFiles": [
+    "备忘录.md",
+    "论文进度记录.md",
+    "Templates/读书笔记模板.md",
+    "成功日记.md",
     "梦想画册.md",
+    "Templates/成功日记模板.md",
+    "读书笔记.md",
+    "{{filename}}.assets/Pasted image 20261030103518.png",
+    "{{filename}}.assets",
+    "file:C:/Users/LSL/Nutstore/1/我的坚果云/设备传递/思路总结.md",
+    "file:C:/Users/LSL/Nutstore/1/我的坚果云/设备传递/YouTube频道运营核.md",
+    "文件夹/Ink Explainer文案思路拆解.table.md",
+    "file:C:/Users/LSL/Nutstore/1/我的坚果云/设备传递/赛道筛选.md",
+    "文件夹",
+    "月度储蓄计划.md",
+    "梦想画册.assets/旅行.jpg",
+    "111.md",
+    "未命名.base",
     "未命名 1.md",
     "大纲.table.md",
-    "成功日记.md",
-    "未命名.md",
-    "月度储蓄计划.md",
-    "Templates/成功日记模板.md",
-    "小说拆书.table.md",
+    "文件夹/小说拆书.table.md",
     "小说拆书.table.md.md",
-    "未命名",
     "梦想画册.assets/女人.jpg",
-    "梦想画册.assets/旅行.jpg",
     "梦想画册.assets/赚钱.jpg",
     "梦想画册.assets/观景台长画幅.png",
     "梦想画册.assets",
     "Templates",
-    "未命名.base",
     "创建链接.md",
     "未命名.canvas"
   ]

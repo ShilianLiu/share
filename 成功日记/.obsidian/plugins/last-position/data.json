@@ -1,0 +1,53 @@
+{
+  "myInterval": 3,
+  "myRetryCount": 30,
+  "restoreIntervalMs": 100,
+  "restoreDelayMs": 300,
+  "enableSmartRestoreDelay": false,
+  "positionState": {
+    "version": 2,
+    "files": {
+      "成功日记.md": {
+        "height": 83.91335464121146,
+        "lastAccessed": 1793324099449
+      },
+      "Templates/读书笔记模板.md": {
+        "height": 0,
+        "lastAccessed": 1793328842439
+      }
+    },
+    "leaves": {
+      "794b378aedf29b68": {
+        "height": 84.01941529215344,
+        "lastAccessed": 1793324087747,
+        "filePath": "成功日记.md"
+      },
+      "504a076e62b0c629": {
+        "height": 83.91335464121146,
+        "lastAccessed": 1793324099449,
+        "filePath": "成功日记.md"
+      },
+      "43790e1df73ade3b": {
+        "height": 0,
+        "lastAccessed": 1793328842439,
+        "filePath": "Templates/读书笔记模板.md"
+      }
+    },
+    "bookmarks": {}
+  },
+  "scrollHeightData": {
+    "成功日记.md": {
+      "height": 83.91335464121146,
+      "lastAccessed": 1793324099449
+    },
+    "Templates/读书笔记模板.md": {
+      "height": 0,
+      "lastAccessed": 1793328842439
+    }
+  },
+  "listenEvent": "mouseover",
+  "pageSize": 10,
+  "enableAutoCleanup": false,
+  "cleanupDays": 30,
+  "dataManagementSettingsOpen": false
+}
