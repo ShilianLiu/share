@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +231,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0f5f46b98d757af3",
+  "active": "504a076e62b0c629",
   "lastOpenFiles": [
-    "备忘录.md",
-    "论文进度记录.md",
     "Templates/读书笔记模板.md",
+    "论文进度记录.md",
+    "备忘录.md",
     "成功日记.md",
     "梦想画册.md",
     "Templates/成功日记模板.md",
