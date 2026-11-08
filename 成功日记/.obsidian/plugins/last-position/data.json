@@ -1,0 +1,113 @@
+{
+  "myInterval": 3,
+  "myRetryCount": 30,
+  "restoreIntervalMs": 100,
+  "restoreDelayMs": 300,
+  "enableSmartRestoreDelay": false,
+  "positionState": {
+    "version": 2,
+    "files": {
+      "成功日记.md": {
+        "height": 96.69413308944317,
+        "lastAccessed": 1793543461278
+      },
+      "Templates/读书笔记模板.md": {
+        "height": 0,
+        "lastAccessed": 1793543482534
+      },
+      "梦想画册.md": {
+        "height": 0.8152035157144297,
+        "lastAccessed": 1793947232429
+      },
+      "论文进度记录.md": {
+        "height": 43.39452876550594,
+        "lastAccessed": 1794138264478
+      },
+      "未命名.md": {
+        "height": 0,
+        "lastAccessed": 1794137255609
+      },
+      "未命名 1.md": {
+        "height": 98.51406049728394,
+        "lastAccessed": 1794137873708
+      },
+      "论文框架.md": {
+        "height": 0,
+        "lastAccessed": 1794138153469
+      }
+    },
+    "leaves": {
+      "794b378aedf29b68": {
+        "filePath": "成功日记.md",
+        "height": 84.01941529215344,
+        "lastAccessed": 1793324087747
+      },
+      "504a076e62b0c629": {
+        "height": 43.39452876550594,
+        "lastAccessed": 1794138264478,
+        "filePath": "论文进度记录.md"
+      },
+      "43790e1df73ade3b": {
+        "filePath": "Templates/读书笔记模板.md",
+        "height": 0,
+        "lastAccessed": 1793543482534
+      },
+      "83ecd07bc91c4f75": {
+        "filePath": "梦想画册.md",
+        "height": 0.8152035157144297,
+        "lastAccessed": 1793947232429
+      },
+      "3d58c266e4aac285": {
+        "filePath": "成功日记.md",
+        "height": 96.69413308944317,
+        "lastAccessed": 1793543461278
+      },
+      "a58b97ccbbb9c5cf": {
+        "filePath": "未命名.md",
+        "height": 0,
+        "lastAccessed": 1794137255609
+      },
+      "ebc5ef8537dc5b94": {
+        "filePath": "论文框架.md",
+        "height": 0,
+        "lastAccessed": 1794138153469
+      }
+    },
+    "bookmarks": {}
+  },
+  "scrollHeightData": {
+    "成功日记.md": {
+      "height": 96.69413308944317,
+      "lastAccessed": 1793543461278
+    },
+    "Templates/读书笔记模板.md": {
+      "height": 0,
+      "lastAccessed": 1793543482534
+    },
+    "梦想画册.md": {
+      "height": 0.8152035157144297,
+      "lastAccessed": 1793947232429
+    },
+    "论文进度记录.md": {
+      "height": 43.39452876550594,
+      "lastAccessed": 1794138264478
+    },
+    "未命名.md": {
+      "height": 0,
+      "lastAccessed": 1794137255609
+    },
+    "未命名 1.md": {
+      "height": 98.51406049728394,
+      "lastAccessed": 1794137873708
+    },
+    "论文框架.md": {
+      "height": 0,
+      "lastAccessed": 1794138153469
+    }
+  },
+  "listenEvent": "mouseover",
+  "pageSize": 10,
+  "enableAutoCleanup": false,
+  "cleanupDays": 30,
+  "dataManagementSettingsOpen": false
+}

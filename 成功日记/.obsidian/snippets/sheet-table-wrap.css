@@ -1,0 +1,19 @@
+/* ===== Obsidian Table插件（Sheet电子表格视图）文字自动换行、加高单元格 ===== */
+.el-table .el-table__cell {
+  white-space: normal !important;    /* 核心：允许文字自动换行，不再单行截断 */
+  word-break: break-all !important;
+  vertical-align: top !important;     /* 文字靠顶部对齐，避免裁切 */
+  line-height: 2.0 !important;        /* 单元格内部文字行间距 */
+  padding: 8px 6px !important;       /* 上下左右留白，解决文字贴边遮挡 */
+}
+
+/* 表头单独微调 */
+.el-table .el-table__header .el-table__cell {
+  white-space: normal !important;
+  line-height: 1.5 !important;
+}
+
+/* 编辑单元格弹窗内文字换行（双击单元格弹出输入框） */
+.el-table .cell-editor textarea {
+  white-space: pre-wrap !important;
+}

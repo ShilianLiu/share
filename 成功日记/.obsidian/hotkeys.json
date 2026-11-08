@@ -1,0 +1,53 @@
+{
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "tables:create-new-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "app:increase-font-size": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "app:decrease-font-size": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
+}

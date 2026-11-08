@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./{{filename}}.assets",
+  "strictLineBreaks": true,
+  "spellcheck": false
+}
