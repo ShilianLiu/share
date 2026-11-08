@@ -48,6 +48,7 @@
               "icon": "lucide-file",
               "title": "备忘录"
             }
+<<<<<<< HEAD
           },
           {
             "id": "ebc5ef8537dc5b94",
@@ -62,6 +63,8 @@
               "icon": "lucide-file",
               "title": "论文框架"
             }
+=======
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
           }
         ],
         "currentTab": 1
@@ -123,7 +126,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
+=======
+    "width": 200,
+    "collapsed": true
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
   },
   "right": {
     "id": "0c359ec03bc800df",
@@ -232,6 +240,7 @@
   },
   "active": "504a076e62b0c629",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "备忘录.md",
     "论文框架.md",
     "{{filename}}.assets/Pasted image 20261108192740.png",
@@ -242,6 +251,11 @@
     "未命名.md",
     "论文进度记录.md",
     "梦想画册.md",
+=======
+    "梦想画册.md",
+    "论文进度记录.md",
+    "备忘录.md",
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
     "Templates/读书笔记模板.md",
     "成功日记.md",
     "读书笔记.md",
@@ -250,6 +264,10 @@
     "梦想画册.assets/旅行.jpg",
     "Templates/成功日记模板.md",
     "{{filename}}.assets/Pasted image 20261030103518.png",
+<<<<<<< HEAD
+=======
+    "{{filename}}.assets",
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
     "file:C:/Users/LSL/Nutstore/1/我的坚果云/设备传递/思路总结.md",
     "file:C:/Users/LSL/Nutstore/1/我的坚果云/设备传递/YouTube频道运营核.md",
     "文件夹/Ink Explainer文案思路拆解.table.md",
@@ -258,6 +276,10 @@
     "月度储蓄计划.md",
     "111.md",
     "未命名.base",
+<<<<<<< HEAD
+=======
+    "未命名 1.md",
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
     "大纲.table.md",
     "文件夹/小说拆书.table.md",
     "小说拆书.table.md.md",

@@ -31,6 +31,7 @@
       "key": "T"
     }
   ],
+<<<<<<< HEAD
   "workspace:new-tab": [],
   "app:increase-font-size": [
     {
@@ -50,4 +51,7 @@
       "key": "ArrowDown"
     }
   ]
+=======
+  "workspace:new-tab": []
+>>>>>>> 47d74ce2f319e438cdb7e5606623d547b776d7ac
 }
